@@ -10,6 +10,9 @@ setup(
     description='EnOcean serial protocol implementation',
     author='Kimmo Huoman',
     author_email='kipenroskaposti@gmail.com',
+    classifiers = [
+        'License :: OSI Approved :: MIT License',
+    ]
     url='https://github.com/kipe/enocean',
     packages=[
         'enocean',
